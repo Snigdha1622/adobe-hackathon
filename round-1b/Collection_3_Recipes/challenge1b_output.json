@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare vegetarian buffet-style dinner menu for corporate gathering"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "• \nIn a bowl, whisk together flour, sugar, baking powder, ba",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "• \nIn a saucepan, bring water or milk to a boil. \n• \nAdd oat",
+      "importance_rank": 2,
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "• \nIn a bowl, whisk together chia seeds, almond milk, honey ",
+      "importance_rank": 2,
+      "page_number": 5
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "• \nPreheat oven to 350°F (175°C). \n• \nIn a bowl, mix mashed ",
+      "importance_rank": 2,
+      "page_number": 6
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "• \nPreheat oven to 350°F (175°C). \n• \nIn a bowl, mix oats, h",
+      "importance_rank": 2,
+      "page_number": 7
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• \nIn a bowl, whisk together flour, sugar, baking powder, ba",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• \nIn a saucepan, bring water or milk to a boil. \n• \nAdd oat",
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• \nIn a bowl, whisk together chia seeds, almond milk, honey ",
+      "page_number": 5
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• \nPreheat oven to 350°F (175°C). \n• \nIn a bowl, mix mashed ",
+      "page_number": 6
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• \nPreheat oven to 350°F (175°C). \n• \nIn a bowl, mix oats, h",
+      "page_number": 7
+    }
+  ]
+}

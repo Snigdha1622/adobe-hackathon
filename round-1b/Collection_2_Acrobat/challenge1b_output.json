@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR Professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "You can select various settings to ensure that your PDF has ",
+      "importance_rank": 8,
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Acrobat provides an option to use Adobe Create PDF cloud ser",
+      "importance_rank": 8,
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "• \nTo create a PDF Portfolio from the original PDF archive, ",
+      "importance_rank": 8,
+      "page_number": 24
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "This process can be useful for creating a one-page PDF. For ",
+      "importance_rank": 7,
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Mail merges from Word generate documents like form letters—f",
+      "importance_rank": 7,
+      "page_number": 27
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "You can select various settings to ensure that your PDF has ",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Acrobat provides an option to use Adobe Create PDF cloud ser",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "• \nTo create a PDF Portfolio from the original PDF archive, ",
+      "page_number": 24
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "This process can be useful for creating a one-page PDF. For ",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Mail merges from Word generate documents like form letters—f",
+      "page_number": 27
+    }
+  ]
+}

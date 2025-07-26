@@ -1,0 +1,24 @@
+{
+    "challenge_info": {
+      "challenge_id": "round_1b_001",
+      "test_case_name": "corporate_dinner"
+    },
+    "documents": [
+      { "filename": "Breakfast Ideas.pdf", "title": "Vegetarian Menu 1" },
+      { "filename": "Dinner Ideas - Mains_1.pdf", "title": "Vegetarian Menu 1" },
+      { "filename": "Dinner Ideas - Mains_2.pdf", "title": "Vegetarian Menu 1" },
+      { "filename": "Dinner Ideas - Mains_3.pdf", "title": "Vegetarian Menu 1" },
+      { "filename": "Dinner Ideas - Sides_1.pdf", "title": "Vegetarian Menu 1" },
+      { "filename": "Dinner Ideas - Sides_2.pdf", "title": "Vegetarian Menu 1" },
+      { "filename": "Dinner Ideas - Sides_3.pdf", "title": "Vegetarian Menu 1" },
+      { "filename": "Dinner Ideas - Sides_4.pdf", "title": "Vegetarian Menu 1" },
+      { "filename": "Lunch Ideas.pdf", "title": "Vegetarian Menu 1" }
+    ],
+    "persona": {
+      "role": "Food Contractor"
+    },
+    "job_to_be_done": {
+      "task": "Prepare vegetarian buffet-style dinner menu for corporate gathering"
+    }
+  }
+  
